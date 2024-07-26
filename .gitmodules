@@ -1,0 +1,3 @@
+[submodule "src/main/resources/notes"]
+	path = src/main/resources/notes
+	url = https://github.com/DanielNaro/MedSecuranceDocumentsAnalysis.git
